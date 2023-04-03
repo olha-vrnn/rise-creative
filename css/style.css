@@ -450,18 +450,6 @@ h6 {
     z-index: 1;
 }
 
-.main-block-image::before {
-    content: '';
-    position: absolute;
-    top: -56px;
-    left: 53px;
-    width: 12px;
-    height: 12px;
-    z-index: 2;
-    background: #EDB32D;
-    border-radius: 50%;
-}
-
 .main-block-partners {
     padding: 45px 0 20px;
     display: flex;
